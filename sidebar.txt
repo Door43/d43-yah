@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yah:home|Door43 (yah)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yah|d43-yah repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yah/archive/master.zip|d43-yah.zip]]
+
+**Recent Changes**
+{{changes>ns = yah}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yah|Ethnologue data]]
+
